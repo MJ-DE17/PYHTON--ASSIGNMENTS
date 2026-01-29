@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="" />
+    <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Q4_MergeTheTools/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q4_MergeTheTools/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Q4_MergeTheTools/test_merge_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Q4_MergeTheTools/test_merge_tools.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769604222123</updated>
       <workItem from="1769604223761" duration="1380000" />
-      <workItem from="1769667216006" duration="5784000" />
+      <workItem from="1769667216006" duration="6064000" />
     </task>
     <servers />
   </component>
