@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ValidEmails/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidEmails/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/ValidEmails/test_emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769604222123</updated>
       <workItem from="1769604223761" duration="1380000" />
-      <workItem from="1769667216006" duration="20806000" />
+      <workItem from="1769667216006" duration="21288000" />
     </task>
     <servers />
   </component>
