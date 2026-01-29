@@ -8,5 +8,5 @@ This repository contains Python assignments.
 - `README.md` – project overview
 
 
-- Assignments problems
+
 
