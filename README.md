@@ -1,6 +1,6 @@
 # Python Assignment
 
-This repository contains Python practice assignments and examples.
+This repository contains Python assignments.
 
 ## Structure
 - `src/` – source code
@@ -9,3 +9,4 @@ This repository contains Python practice assignments and examples.
 
 
 - Assignments problems
+
