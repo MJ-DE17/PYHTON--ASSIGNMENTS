@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NamedTupleAverage/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NamedTupleAverage/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/NamedTupleAverage/test_average.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimeDelta/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TimeDelta/util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769604222123</updated>
       <workItem from="1769604223761" duration="1380000" />
-      <workItem from="1769667216006" duration="11451000" />
+      <workItem from="1769667216006" duration="12207000" />
     </task>
     <servers />
   </component>
