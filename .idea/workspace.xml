@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70dbb39-ea25-4c06-a276-39910cd69f73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Happiness/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Happiness/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Happiness/test_happiness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordOrder/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordOrder/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1769604222123</updated>
       <workItem from="1769604223761" duration="1380000" />
-      <workItem from="1769667216006" duration="17398000" />
+      <workItem from="1769667216006" duration="18109000" />
     </task>
     <servers />
   </component>
