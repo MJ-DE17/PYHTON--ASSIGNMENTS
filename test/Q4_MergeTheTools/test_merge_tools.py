@@ -8,7 +8,7 @@ sys.path.append(
     )
 )
 
-from util import merge_the_tools
+from src.StringFormatting.util import merge_the_tools
 
 
 class TestMergeTheTools(unittest.TestCase):

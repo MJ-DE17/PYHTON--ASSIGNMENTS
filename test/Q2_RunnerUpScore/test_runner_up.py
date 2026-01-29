@@ -8,7 +8,7 @@ sys.path.append(
     )
 )
 
-from util import find_runner_up
+from src.StringFormatting.util import find_runner_up
 
 class TestRunnerUpScore(unittest.TestCase):
 

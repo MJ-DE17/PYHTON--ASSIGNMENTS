@@ -8,7 +8,7 @@ sys.path.append(
     )
 )
 
-from util import calculate_average
+from src.StringFormatting.util import calculate_average
 
 
 class TestStudentAverage(unittest.TestCase):
